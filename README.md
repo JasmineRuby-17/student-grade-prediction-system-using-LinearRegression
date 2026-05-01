@@ -1,8 +1,4 @@
 
-
-https://github.com/user-attachments/assets/fc5d3444-5c5b-419d-adbd-630130d1bd71
-
-
 # 🎓 Student Grade Prediction System 🚀
 
 A machine learning project that predicts students’ final grades (G3) using academic and behavioral factors.
@@ -54,3 +50,7 @@ git clone https://github.com/your-username/student-grade-prediction.git
 cd student-grade-prediction
 
 python gradeprediction.py (file name)
+
+## Demo Video
+
+https://github.com/user-attachments/assets/fc5d3444-5c5b-419d-adbd-630130d1bd71
