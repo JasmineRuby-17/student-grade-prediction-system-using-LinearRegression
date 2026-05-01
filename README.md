@@ -1,5 +1,7 @@
 
-Uploading student grade prediction demo.mp4…
+
+https://github.com/user-attachments/assets/fc5d3444-5c5b-419d-adbd-630130d1bd71
+
 
 # 🎓 Student Grade Prediction System 🚀
 
