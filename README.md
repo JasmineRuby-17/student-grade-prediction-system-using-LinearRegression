@@ -1,3 +1,6 @@
+
+Uploading student grade prediction demo.mp4…
+
 # 🎓 Student Grade Prediction System 🚀
 
 A machine learning project that predicts students’ final grades (G3) using academic and behavioral factors.
