@@ -45,6 +45,7 @@ Python • Pandas • NumPy • Scikit-learn • Streamlit
 
 ## ▶️ Run Locally
 git clone https://github.com/your-username/student-grade-prediction.git
+
 cd student-grade-prediction
-pip install -r requirements.txt
+
 python gradeprediction.py (file name)
